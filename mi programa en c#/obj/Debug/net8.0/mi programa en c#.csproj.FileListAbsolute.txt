@@ -1,0 +1,15 @@
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\bin\Debug\net8.0\mi programa en c#.exe
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\bin\Debug\net8.0\mi programa en c#.deps.json
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\bin\Debug\net8.0\mi programa en c#.runtimeconfig.json
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\bin\Debug\net8.0\mi programa en c#.dll
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\bin\Debug\net8.0\mi programa en c#.pdb
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.AssemblyInfoInputs.cache
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.AssemblyInfo.cs
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.csproj.CoreCompileInputs.cache
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.sourcelink.json
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.dll
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\refint\mi programa en c#.dll
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.pdb
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\mi programa en c#.genruntimeconfig.cache
+C:\Users\UCB\Documents\GitHub\SIS112\mi programa en c#\obj\Debug\net8.0\ref\mi programa en c#.dll
