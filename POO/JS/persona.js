@@ -26,6 +26,8 @@ class Persona {
     }
     Modificar_Saludo() {
       this.nombre =prompt("ingrese su nombre");
+      this.edad=prompt("ingrese su edad","19");
+
       return 'Hola, mi nombre es ' + this.nombre + ' y tengo ' + this.edad + ' años.'
     }
     Modificar_cumpleanios() {
