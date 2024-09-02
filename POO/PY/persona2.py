@@ -76,7 +76,7 @@ class Persona:
 
         
     #crear una instancia de la clase persona
-persona1 = Persona("Mel",18,"ingenieria industrial","Universidad católica")
+persona1 = Persona("Mel Amaya",18,"ingenieria industrial","Universidad católica")
 
  #llamar metodos   
 persona1.saludar()
