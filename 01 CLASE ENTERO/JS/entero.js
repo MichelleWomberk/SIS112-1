@@ -79,6 +79,6 @@ function esParImparNum(){
 
 function esPosNega(){
     var respuesta = ClassEntero.esPositivoNegativo();
-    var resp= respuesta?" es Num positivo": "Es Num Negativo"
+    var resp= respuesta?"Es Num positivo": "Es Num Negativo"
     ClassEntero.showResultado(resp)
 }
